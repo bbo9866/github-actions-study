@@ -8,7 +8,7 @@ on:
 
 env:
   AWS_REGION: ap-northeast-2
-  ECR_REPOSITORY: 2048-game
+  ECR_REPOSITORY: github-actions-study
 
 jobs:
   build-and-push:
